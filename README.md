@@ -13,3 +13,8 @@ En este código aplico las bases de la programación estructurada en C++:
 * **Estructuras de control:** Uso ciclos for para recorrer y procesar la información de los estudiantes en orden.
 * **Menús interactivos:** Implemento un ciclo do-while con un switch-case para que el usuario navegue por las opciones y para validar lo que ingresa.
 * **Lógica condicional:** Utilizo bloques if-else para evaluar los promedios y definir si el estudiante aprueba o no.
+
+## Cómo ejecutar este programa
+Asegúrate de tener instalado un compilador de C++ como Dev-C++.
+Abre el archivo factura.cpp en tu editor.
+Compila y ejecuta el código.
