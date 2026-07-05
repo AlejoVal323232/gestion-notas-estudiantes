@@ -15,6 +15,7 @@ En este código aplico las bases de la programación estructurada en C++:
 * **Lógica condicional:** Utilizo bloques if-else para evaluar los promedios y definir si el estudiante aprueba o no.
 
 ## Cómo ejecutar este programa
-Asegúrate de tener instalado un compilador de C++ como Dev-C++.
-Abre el archivo factura.cpp en tu editor.
-Compila y ejecuta el código.
+
+* Asegúrate de tener instalado un compilador de C++ como **Dev-C++**.
+* Abre el archivo `gestion_notas.cpp` en tu editor.
+* Compila y ejecuta el código.
